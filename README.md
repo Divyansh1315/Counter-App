@@ -6,3 +6,5 @@ Since It's a JS Practice Journey I would like brief about what all things I've u
 
 I've used EVENT DELEGATION over here.
 Basically Event Delegation means to handle events efficiently using patterns.
+
+
